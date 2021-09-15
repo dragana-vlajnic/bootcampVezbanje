@@ -1,0 +1,23 @@
+cd Desktop
+
+// kloniramo postojeci projekat na racunar
+git clone https://github.com/dragana-vlajnic/bootcampVezbanje.git
+cd bootcampVezbanje
+
+// Pa smo kreirali folder, novi fajl i izmenili tekuci fajl
+
+git status
+// Da proverimo status unetih promena kucamo git status. Git bash crvenom bojom oznaci
+// sta je dodato i sta je promenjeno
+
+// Da dodamo sve promene radimo
+git add .
+
+// da proverimo da li su dodate promene radimo git status i sada su promene unete zelenom bojom
+git status
+
+// Sledeci korak je commit promena sa odgovarajucom porukom kojom oznacavamo sta je radjeno
+git commit -m "Dodali smo novi folder sa jednim fajlom i izmenili postojeci fajl"
+
+// I sada kada su prmene spremne, push-ujemo ih na remote granu
+git push.

@@ -1,0 +1,25 @@
+    1. Bug report
+    • Open “SINoALICE” game app and start a game
+    • Go to “Grimoire” tab / Daily Grimoire summons and summon one time.
+    • Press “Watch” button to watch ad for one free summon.
+    • Expected outcome: Popup shows with picture of a screen and play icon that starts ad upon pressing.
+    • Actual outcome: Clear popup shows without any markings, area where play icon is supposed to be is pressed it plays ad, if any other area is pressed it exites popup.
+    • What’s the problem: It’s confusing. Inability to see clear marking of button lead us to believe option of free pull is not working at all.
+
+
+
+    2. Bug report
+    • Open “SINoALICE” game app and start a game
+    • Go to “Colosseum” and play
+    • Expected outcome: Character moves fluently, uses available weapons from the set and attacks enemy player.
+    • Actual outcome: Character freezes on the screen, weapon freezes in available weapon slots.
+    • What’s the problem: Aside from the character animation, we are unable to se what weapons from the set are used and which ones we will gonna use next.
+
+
+    3. Bug report
+    • Open “SINoALICE” game app and start a game
+    • Go to “Event” tab / start “One Year of Terror” hard chapter 10
+    • Finish chapter with 5 minutes left on timer.
+    • Expected outcome: Mission status is checked, chapter status is completed.
+    • Actual outcome: Mission status is unchecked, chapter status is cleared.
+    • What’s the problem: Missleading, chapter status completed only if chapter is cleared in less than 2 minutes total.

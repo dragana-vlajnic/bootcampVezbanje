@@ -1,0 +1,3 @@
+Ne moze, jer se funkcije razlikuju samo pri povratnoj vrednosti, pa necemo znati koja se poziva.
+Moglo bi da se funkcije zovu isto, ali imaju razlicite parametre jer bi se odluka o tome koja
+se funkcija poziva obavljala na osnovu parametara funkcije.

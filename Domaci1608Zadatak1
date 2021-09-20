@@ -1,0 +1,2 @@
+Greska je u if - else-u. nije zatvorena zagrada za if pre nego sto smo poceli da definisemo sta se desava u else slucaju.
+Druga stvar je sto nismo uradili import java.util.Scanner;
